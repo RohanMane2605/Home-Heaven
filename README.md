@@ -1,1 +1,2 @@
-# Home-Heaven
+# RentUp - Residence & Real Estate Website
+
